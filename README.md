@@ -73,7 +73,7 @@ Use your **arrow keys** to move the turtle around the screen.
 
 ---
 
-### 📡 Topics
+###  Topics
 
 **Topics** allow nodes to publish or subscribe to continuous data streams.
 
@@ -130,13 +130,13 @@ ros2 service call /clear std_srvs/srv/Empty
 
 ## 🔗 Helpful Resources
 
-- [Turtlesim Beginner Tutorial](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim.html)
+- [Turtlesim Beginner Tutorial](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
 - [ROS 2 Humble Installation](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
 - [Official ROS 2 Docs](https://docs.ros.org/en/humble/index.html)
 
 ---
 
-## ✅ Notes
+## Notes
 
 - Use multiple terminal windows for better control:
   - One for launching `turtlesim_node`
